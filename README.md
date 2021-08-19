@@ -69,7 +69,7 @@
   <p> Hi i'm ALAMIN. I live in Bangladesh.  My district Jessore and Thana Bagharpara, I study in 12th class.  I want to be a programmer in the future and work for the development of the country.
  </p>
   <button><a href="https://www.linkedin.com/in/md-alamin-720b41214" width="300 " alt=" LinkedIn "  Target="_blank">Learn more  </a> </button>
-
+<br> 
 </div>
   
 </div>
