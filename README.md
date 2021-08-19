@@ -68,7 +68,7 @@
   <hr class="my-4">
   <p> Hi i'm ALAMIN. I live in Bangladesh.  My district Jessore and Thana Bagharpara, I study in 12th class.  I want to be a programmer in the future and work for the development of the country.
  </p>
-  <a  class="btn btn-primary btn-lg" href="https://www.linkedin.com/in/md-alamin-720b41214"role="button">Learn more</a>
+  <a  class="btn btn-primary btn-lg" href="https://www.linkedin.com/in/md-alamin-720b41214"role="button"> <button>Learn more </button></a>
 </div>
   
 </div>
