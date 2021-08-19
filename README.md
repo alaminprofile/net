@@ -122,7 +122,7 @@
 <div id="contacts"  class="container">
 <div class="card" style="width: 18rem;">
   <div class="card-header">
-    Contact us </button>
+  <button> Contact us </button>
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item">phone Number: 01751893994 </li>
