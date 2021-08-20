@@ -25,9 +25,9 @@
     <a class="nav-link active" id="contact-tab" data-toggle="tab" href="#Educations" role="tab" aria-controls="contact" aria-selected="true">Education </a>
   </li>
   
-  <li class="nav-item" role="presentation">
-    <a class="nav-link active" id="contact-tab" data-toggle="tab" href="#contacts" role="tab" aria-controls="contact" aria-selected="true">Contact</a>
-  </li>
+
+
+
 </ul>
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
