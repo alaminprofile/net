@@ -121,6 +121,24 @@
 </div>
     <br>
    <br>
+    <div  class="container">
+<div class="card">
+  <div class="card-header">
+ <h4> SONG </h4>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title"> </h5>
+    <p class="card-text"> যদিও গান গাইতে পারিনা তবুওহ হালকা একটু চেষ্টা😝😝
+<br>
+    <audio controls  >
+         
+            <source  src="adio.mp3" type="audio/mpeg ">
+          
+        </audio>
+ </p>
+    <a href="https://youtube.com/channel/UCBRMG3CCJgw7Pbho5zrILdQ " > <button>Go  my youtube channel </button> </a>
+  </div>
+  <br> <br>
 <div id="contacts"  class="container">
 <div class="card" style="width: 18rem;">
   <div class="card-header">
