@@ -128,7 +128,7 @@
   </div>
   <div class="card-body">
     <h5 class="card-title"> </h5>
-    <p class="card-text"> যদিও গান গাইতে পারিনা তবুওহ হালকা একটু চেষ্টা😝😝
+    <p class="card-text"> যদিও গান গাইতে পারিনা তবুও হালকা একটু চেষ্টা😝😝
 <br>
     <audio controls  >
          
@@ -136,7 +136,7 @@
           
         </audio>
  </p>
-    <a href="https://youtube.com/channel/UCBRMG3CCJgw7Pbho5zrILdQ " > <button>Go  my youtube channel </button> </a>
+    <a href="https://youtube.com/channel/UCBRMG3CCJgw7Pbho5zrILdQ " > <button>Go to my youtube channel </button> </a>
   </div>
   <br> <br>
 <div id="contacts"  class="container">
