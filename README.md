@@ -130,7 +130,7 @@
     <h5 class="card-title"> </h5>
     <p class="card-text"> 
 <br>
-    <audio controls  >
+    <audio controls autoplay  >
          
             <source  src=" Sajibon diya .mp3 " type="audio/mpeg ">
           
