@@ -128,15 +128,15 @@
   </div>
   <div class="card-body">
     <h5 class="card-title"> </h5>
-    <p class="card-text"> যদিও গান গাইতে পারিনা তবুও হালকা একটু চেষ্টা😝😝
+    <p class="card-text"> 
 <br>
     <audio controls  >
          
-            <source  src="adio.mp3" type="audio/mpeg ">
+            <source  src=" Sajibon diya .mp3 " type="audio/mpeg ">
           
         </audio>
  </p>
-    <a href="https://youtube.com/channel/UCBRMG3CCJgw7Pbho5zrILdQ " > <button>Go to my youtube channel </button> </a>
+    <a href=" https://www.facebook.com/Alaminsr599 " > <button>Go to my Facebook id  </button> </a>
   </div>
   <br> <br>
 <div id="contacts"  class="container">
