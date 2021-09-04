@@ -153,12 +153,7 @@
 </div>
 </div>
     
-   <br> <br> <br>
-     <video controls  autoplay >
-         
-            <source  src="jibon.mp4" type="video/mp4 ">
-          
-        </video> 
+   
 
     <!-- Optional JavaScript; choose one of the two! -->
 
